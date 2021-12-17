@@ -11,3 +11,4 @@ Step 8: Enclose side content with <aside> element tag.
 Step 9: Added ALT text to images in <article> contents. 
 Step 10: Added ALT text to icons in <aside> tag. 
 Step 11: Added footer tag. 
+Step 12: Annotating CSS for organization. 
