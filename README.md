@@ -1,4 +1,4 @@
-# homework
+# Horiseon
 💡Objective: 
 
 Restructure existing code with semantic HTML standards to enhance user accessibility and improve user experience while optimize search engine capabilities. 
